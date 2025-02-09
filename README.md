@@ -21,4 +21,47 @@ This project is divided into two parts:
 ---
 
 ## 📂 Repository Structure  
+📦 final-project
+┣ 📜 LICENSE # Apache 2.0 License file
+┣ 📜 README.md # Project documentation
+┣ 📜 CODE_OF_CONDUCT.md # Code of conduct for contributors
+┣ 📜 CONTRIBUTING.md # Contribution guidelines
+┣ 📜 simple-interest.sh # Bash script to calculate simple interest
 
+
+---
+
+## 🚀 Features  
+
+- **Bash script for simple interest calculation**  
+- **Standard project documentation**  
+- **Best practices for open-source collaboration**  
+
+---
+
+## 🔧 Installation  
+
+To clone this repository, run:  
+
+```sh
+git clone https://github.com/your-username/final-project.git
+cd final-project
+
+🖥️ Usage
+Run the simple-interest.sh script:
+
+sh
+Copy code
+chmod +x simple-interest.sh
+./simple-interest.sh
+Follow the prompts to enter principal, rate, and time to calculate simple interest.
+
+🤝 Contributing
+We welcome contributions! Please follow these steps:
+
+Fork the repository
+Create a new branch (git checkout -b feature-branch)
+Make your changes and commit (git commit -m "Your commit message")
+Push to your fork (git push origin feature-branch)
+Open a pull request
+See CONTRIBUTING.md for details.
